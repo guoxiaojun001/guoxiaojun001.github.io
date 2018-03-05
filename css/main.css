@@ -1086,7 +1086,7 @@ pre .javascript .function {
   margin-right: 5px;
 }
 .use-motion .menu-item {
-  opacity: 0;
+  opacity: 1;
 }
 .post-body {
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -2227,7 +2227,7 @@ pre .javascript .function {
   padding-left: 10px;
 }
 .use-motion .post {
-  opacity: 0;
+  opacity: 1;
 }
 .page-archive .archive-page-counter {
   position: relative;
