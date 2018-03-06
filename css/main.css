@@ -2705,7 +2705,7 @@ pre .javascript .function {
   opacity: 1;
 }
 .sidebar {
-  display: none;
+  display: block;
   right: auto;
   bottom: auto;
   -webkit-transform: none;
